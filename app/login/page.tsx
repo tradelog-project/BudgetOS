@@ -42,7 +42,7 @@ export default function LoginPage() {
           <div className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-primary text-primary-foreground">
             <Wallet className="h-7 w-7" />
           </div>
-          <h1 className="text-2xl font-bold tracking-tight">가족 예산 관리</h1>
+          <h1 className="text-2xl font-bold tracking-tight">오늘 얼마?</h1>
           <p className="text-sm text-muted-foreground">가족과 함께하는 스마트 가계부</p>
         </div>
 
